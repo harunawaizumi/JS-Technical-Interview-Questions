@@ -1,13 +1,21 @@
-
-// 70. Climbing Stairs
-const climbStairs = function (n) {
-    let arr = [],
-        i
-    arr[0] = 0
-    arr[1] = 1
-    arr[2] = 2
-    for (i = 3; i <= n; i++) {
-        arr[i] = arr[i - 1] + arr[i - 2]
+const isSymmetric = function (root) {
+    if (root === null) {
+        return true
     }
-    return arr[n]
+
+    return isSymmetricHelper(root.left, root.right)
+}
+
+function isSymmetricHelper(left, right) {
+    if ((left === null && right !== null) || (left !== null && right === null)) {
+        return false;
+    }
+
+    if (left === null && right === null) {
+        return true;
+    } else if (left.val !== right.val) {
+        return false;
+    }
+
+    return isSymmetricHelper(left.left, right.right) && isSymmetricHelper(left.right, right.left);
 }

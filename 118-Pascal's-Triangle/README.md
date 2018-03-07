@@ -1,17 +1,13 @@
-Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).
+Given numRows, generate the first numRows of Pascal's triangle.
 
-For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
-
-    1
-   / \
-  2   2
- / \ / \
-3  4 4  3
-But the following [1,2,2,null,3,null,3] is not:
-    1
-   / \
-  2   2
-   \   \
-   3    3
-Note:
-Bonus points if you could solve it both recursively and iteratively.ep
+For example, given numRows = 5,
+Return
+```
+[
+     [1],
+    [1,1],
+   [1,2,1],
+  [1,3,3,1],
+ [1,4,6,4,1]
+]
+```
