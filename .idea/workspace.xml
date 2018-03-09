@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdbd954b-a7a7-4109-aee7-bf0ff965a383" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121.-Best-Time-to-Buy-and-Sell-Stock/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121.-Best-Time-to-Buy-and-Sell-Stock/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121.-Best-Time-to-Buy-and-Sell-Stock/scripts.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_SAMPLE/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_SAMPLE/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_SAMPLE/scripts.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/007-Reverse-Integer" afterPath="$PROJECT_DIR$/007-Reverse-Integer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/template1" afterPath="$PROJECT_DIR$/docs/template1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/101-Symmetric-Tree/README.md" afterPath="$PROJECT_DIR$/101-Symmetric-Tree/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/101-Symmetric-Tree/scripts.js" afterPath="$PROJECT_DIR$/101-Symmetric-Tree/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/101-Symmetric-Tree/scripts.md" afterPath="$PROJECT_DIR$/101-Symmetric-Tree/scripts.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/118-Pascal's-Triangle/README.md" afterPath="$PROJECT_DIR$/118-Pascal's-Triangle/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -490,12 +479,12 @@
       <workItem from="1519857986504" duration="1597000" />
       <workItem from="1519943166502" duration="1296000" />
       <workItem from="1519995540016" duration="59000" />
-      <workItem from="1520289173904" duration="3695000" />
+      <workItem from="1520289173904" duration="3862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7032000" />
+    <option name="totallyTimeSpent" value="7199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="590" y="23" width="850" height="836" extended-state="0" />
